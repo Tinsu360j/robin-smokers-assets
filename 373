@@ -1,0 +1,15 @@
+{
+  "name": "Robin Smokers #373",
+  "description": "20 original hat designs, 25 editions each. 500 total supply.",
+  "image": "https://tinsu360j.github.io/robin-smokers-assets/373.png",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Baseball Cap (Blue)"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "19 of 25"
+    }
+  ]
+}
