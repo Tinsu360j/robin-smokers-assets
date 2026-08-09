@@ -1,0 +1,15 @@
+{
+  "name": "Robin Smokers #214",
+  "description": "20 original hat designs, 25 editions each. 500 total supply.",
+  "image": "https://tinsu360j.github.io/robin-smokers-assets/214.png",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sailor Hat"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "11 of 25"
+    }
+  ]
+}
